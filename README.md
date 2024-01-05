@@ -11,7 +11,7 @@
 
 > A Fully Modular and Efficient Bot <br>
 
-[![Deploy](https://img.shields.io/badge/replit-253c99?style=for-the-badge&logo=replit&logoColor=F26207)](https://repl.it/github/Debanjan-San/WhatsApp-Bot-Devi)
+[![Deploy](https://img.shields.io/badge/replit-253c99?style=for-the-badge&logo=replit&logoColor=F26207)](https://repl.it/github/6ucg/WhatsApp-Bot-Devi)
 </div>
 
 # Devi Bot
@@ -28,7 +28,7 @@ Devi is a whatsapp bot created with [@whiskeysockets/baileys](https://github.com
 Clone this project
 
 ```bash
-> git clone https://github.com/Debanjan-San/WhatsApp-Bot-Devi.git
+> git clone https://github.com/6ucg/WhatsApp-Bot-Devi.git
 > cd WhatsApp-Bot-Devi
 ```
 
