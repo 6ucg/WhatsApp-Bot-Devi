@@ -53,5 +53,4 @@ Installing the dependencies (**make sure you're in the project directory that yo
 4. Push to the branch: `git push origin my-new-feature`
 5. Submit a pull request
 
-### **Join our support group**
-* Support guild link [Arus](https://chat.whatsapp.com/JCCZPbPUbM1536n62zSFZi)
+
